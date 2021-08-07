@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Gabriel :man_student:
 
-<!--
-**gabrielsalvi/gabrielsalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :open_book: I’m currently a Computer Science undergraduated student at [UFFS](https://www.uffs.edu.br/)
+- :computer: Now I'm learning Java, PostgreSQL and Linux
+- :call_me_hand: Fun fact: I love to practice sports and read manga
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/gabrielsalvi">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielsalvi&show_icons=true&theme=dracula&title_color=0bc6e3&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalvi&layout=compact&langs_count=10&theme=dracula&title_color=0bc6e3&include_all_commits=true&count_private=true"/>
+</div>
