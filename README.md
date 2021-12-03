@@ -8,8 +8,8 @@
 ##
 
 - :open_book: I’m studying Computer Science at [UFFS](https://www.uffs.edu.br/)
-- :computer: Now I'm learning Java, PostgreSQL and Linux
-- :call_me_hand: Fun fact: I love to practice sports and read manga
+- :computer: Now I'm learning Spring and Linux
+- :call_me_hand: Interesting fact: I love to practice sports and read manga
  
 ---
 
